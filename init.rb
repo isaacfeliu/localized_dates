@@ -10,4 +10,4 @@ end
 Rails.logger.info '** [localized_dates] locales loaded from config/locales.'
 
 # set default locale to en
-I18n.default_locale = 'en'
+# I18n.default_locale = 'en'
